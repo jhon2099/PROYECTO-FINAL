@@ -1,0 +1,56 @@
+body{
+    background-color: rgba(23, 98, 128, 0.212);
+}
+h1 {
+    font-size: 30px;
+    text-align: center;
+    color: rgb(212, 18, 18) ;
+}
+h2{
+    font-size: 25px;
+    text-align: center;
+    color: rgb(63, 37, 212) ;
+}
+table{
+   
+    border-radius: 50px;
+    padding: 1%;
+    width: 25%;
+    border: 5px solid rgba(28, 17, 189, 0.267);
+     
+}
+td{
+    
+    border-radius: 25px;
+    width: 25%;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+     
+}
+button{
+    background-color: white;
+    color: black;
+    padding: 10%;
+    width: 100%;
+    border-radius: 15px;
+    border: 5px solid rgba(17, 57, 189, 0.151);
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    font-size: 15px;
+    border-radius: 25px;
+    width: 100%;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+     
+}
+h3{
+    font-size: 15px;
+    width: 100%;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+     
+}
+button:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 28, 186, 0.568);
+    }
